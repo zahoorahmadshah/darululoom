@@ -197,7 +197,7 @@ h4, h5, h6, .h4, .h5, .h6 {
 /*** Hero Header ***/
 .hero-header {
     margin-bottom: 6rem;
-    padding-top: 15rem;
+    padding-top: 12rem;
     padding-bottom: 6rem;
     background: url("../img/jmkup.jpg"), center center no-repeat;
     background-size: cover;
